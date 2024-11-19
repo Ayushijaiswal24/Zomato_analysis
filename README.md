@@ -1,10 +1,10 @@
-# Zomato_analysis
-The purpose of the **Zomato Analysis** project is to analyze data related to restaurants listed on Zomato, providing insights into trends, patterns, and factors that impact the restaurant industry. Key objectives may include:  
+Zomato Restaurant Data Analysis
+Utilized Python, Pandas, and Seaborn to conduct an in-depth analysis of a restaurant dataset from Zomato, uncovering patterns and trends in the restaurant industry.
 
-1. **Understanding Customer Preferences**: Identify popular cuisines, price ranges, and restaurant types that attract the most customers.  
-2. **Market Insights**: Analyze the distribution of restaurants across cities, average ratings, and cost comparisons.  
-3. **Performance Metrics**: Determine factors that correlate with high ratings or successful establishments.  
-4. **Business Decision Support**: Help businesses optimize their offerings, pricing, and locations based on data-driven insights.  
-5. **Consumer Trends**: Explore what customers value in dining experiences, such as ambiance, quality, or affordability.  
-
-This analysis can benefit restaurant owners, Zomato's platform, and even customers by improving decision-making and enhancing service quality.
+Objective: Analyze key factors such as online ordering preferences, table booking options, customer ratings, and cost trends.
+Data Processing: Cleaned and preprocessed data, addressing missing values and transforming rating formats for consistent analysis.
+Key Insights:
+Identified correlations between restaurant types, customer ratings, and cost brackets.
+Visualized trends in popular cuisines, location-based restaurant preferences, and pricing strategies.
+Tech Stack: Python (Pandas, Matplotlib, Seaborn).
+Outcome: Provided actionable insights to optimize restaurant performance and customer satisfaction strategies, enhancing decision-making for stakeholders.
