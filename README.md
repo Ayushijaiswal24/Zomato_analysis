@@ -1,7 +1,9 @@
 Zomato Restaurant Data Analysis
+
 Utilized Python, Pandas, and Seaborn to conduct an in-depth analysis of a restaurant dataset from Zomato, uncovering patterns and trends in the restaurant industry.
 
-Objective: Analyze key factors such as online ordering preferences, table booking options, customer ratings, and cost trends.
+Objective:
+Analyze key factors such as online ordering preferences, table booking options, customer ratings, and cost trends.
 Data Processing: Cleaned and preprocessed data, addressing missing values and transforming rating formats for consistent analysis.
 Key Insights:
 Identified correlations between restaurant types, customer ratings, and cost brackets.
